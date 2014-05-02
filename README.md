@@ -1,8 +1,6 @@
 Profil-2.0.8-patch
 ==================
 
-Patch for Profil-2.0.8
-
 Modifed version of the interval library Profil/BIAS.
 
 To use this you need the official Profil/BIAS package from http://www.ti3.tu-harburg.de/Software/PROFILEnglisch.html
